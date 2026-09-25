@@ -6,7 +6,7 @@
 
 ![统一数字人设定](assets/character/digital-human-reference.png)
 
-以用户提供的官方参考图为唯一人物锚点：黑色齐刘海短发、圆形透明框眼镜、大型黑色头戴式耳机、黑色 WaytoAGI T 恤和完整彩虹标志。完整人物锚点见 [`prompts/digital-human-reference.txt`](prompts/digital-human-reference.txt)。后续需要出现人物时保持这些识别元素，再按具体风格调整媒介、姿态和场景。
+这张图只属于当前用户的个人数字人。其他用户需要先提供自己的数字人参考图，或补充外貌、服装与识别元素描述，再建立对应人物锚点。完整使用规则见 [`prompts/digital-human-reference.txt`](prompts/digital-human-reference.txt)。
 
 ## 01｜像素梦境
 
