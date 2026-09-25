@@ -29,3 +29,12 @@ The prompts describe visual language only. A skill can reuse them for comics, po
 | 11 | 青春物件环形拼贴 | 音乐企划、主题策展、青年文化 |
 | 12 | 复古照片荧光涂鸦 | 艺术拼贴、社交内容、复古叙事 |
 | 13 | 橙色生活分镜 | 居住故事、生活记录、活动分镜 |
+
+## CLI lookup
+
+```bash
+python3 select_style.py 08
+python3 select_style.py storyboard
+```
+
+The command prints the selected style metadata and the full prompt as JSON, so another skill can call it without knowing the directory layout.
