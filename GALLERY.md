@@ -1,75 +1,91 @@
 # 视觉风格参考图鉴：01—30
 
-每个条目都包含一张对应参考图、风格提示词和来源。提示词文件可直接供图像生成、漫画、海报、幻灯片、网页与社交内容类 skill 读取；使用时替换 `{变量}`，保留结构、材质、配色与排版语言。
+每个分类包含完整提示词、原始参考图与按该提示词生成的示例图。生成图用于验证风格迁移效果；使用提示词时替换 `{变量}`，保留结构、材质、配色与排版语言。
 
 ## 01｜像素梦境
 
-![像素梦境](assets/references/reference-01.png)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![像素梦境 原始参考图](assets/references/reference-01.png) | ![像素梦境 生成示例](assets/generated/style-01-generated.png) |
 
-参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词](prompts/style-01.txt)
+参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词文件](prompts/style-01.txt)
 
 像素梦境:
 A dreamy late-1990s / early-2000s web pixel collage. Photo-textured rolling vivid green grass, atmospheric pale blue sky and grand white clouds. On top, crisp visible 8-bit pixel sprites with solid black staircase contours and slight CRT scanlines. AJ is an original glasses+headphones black-bob pixel sprite at six stations of a winding vertical journey. Use pixel UI floating windows, hand cursor, small neon green/yellow/pink blocks as arrows, sky depth and nostalgic game-world space. Clean Japanese web-design sensibility. Typography black clean pixel-friendly labels in off-white UI strips. Do NOT turn this into smooth-vector game illustration or conventional comic frames. No source shop label, dragon, temple, tomato or copied sprites.
 
 ## 02｜黑白日历拼格
 
-![黑白日历拼格](assets/references/reference-02.png)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![黑白日历拼格 原始参考图](assets/references/reference-02.png) | ![黑白日历拼格 生成示例](assets/generated/style-02-generated.png) |
 
-参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词](prompts/style-02.txt)
+参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词文件](prompts/style-02.txt)
 
 黑白日历拼格:
 A scanned ivory-paper journal calendar with dark navy thin ruled grid and rough BLACK ink drawing across cells. Finely hatched pen strokes, stark black/cream silhouette areas, slightly imperfect analog linework. A large recognizable AJ face with round glasses and black hair spans several grid cells as a continuous fragmented portrait; six clear timestamp cells and small task vignettes weave around it, all six supplied moments legible and chronological. Calendar-like visual structure for ONE DAY; put actual timestamps rather than fake numbered calendar days. A few tiny star doodles only. Keep handcrafted editorial monochrome, high detail in hatching, no color except navy ruling and one tiny vermilion accent. Entire six-moment text must fit; no source year/month labels or copied face.
 
 ## 03｜蜡笔拼贴
 
-![蜡笔拼贴](assets/references/reference-03.png)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![蜡笔拼贴 原始参考图](assets/references/reference-03.png) | ![蜡笔拼贴 生成示例](assets/generated/style-03-generated.png) |
 
-参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词](prompts/style-03.txt)
+参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词文件](prompts/style-03.txt)
 
 蜡笔拼贴:
 A naive OIL PASTEL / WAX CRAYON portrait scrapbook on warm medium-gray background. Six irregular off-white paper scraps, overlapping at expressive angles with generous gaps, true thick crumbly wax black strokes, waxy grain, uneven coloring in butter yellow, pale pink, orange, warm gray and muted teal. Draw original simplified AJ bust/face/hand-action on each scrap: short black fringe, big round glasses and headphones recognizable through childlike shorthand. Each snippet shows a distinct task/mood, not identical portraits. Have each scrap captioned with one of the six supplied moments, legible black marker lettering. Arrange sizes varied like an editorial moodboard. No cats or animals and no copied artists' names; reference contributes crayon medium and paper collage only.
 
 ## 04｜荧光双色涂鸦
 
-![荧光双色涂鸦](assets/references/reference-04.png)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![荧光双色涂鸦 原始参考图](assets/references/reference-04.png) | ![荧光双色涂鸦 生成示例](assets/generated/style-04-generated.png) |
 
-参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词](prompts/style-04.txt)
+参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词文件](prompts/style-04.txt)
 
 荧光双色涂鸦:
 A vivid screenprinted indie Japanese poster / sticker sheet: HUGE acid bright lemon yellow background inside a crisp white outer margin, loose thin DEEP TEAL outlines, WHITE opaque fills, tiny orange-red accents, teal halftone dots and slightly misregistered ink. Six original tiny stylized AJ figures / accessories / workflow objects distributed spaciously down poster in irregular columns. Black bob, round glasses, headphones translated into simple teal-white iconlike doodles. Their associated objects tell the six moments. Large playful vertical side title AJ 的一天, but the main captions stay horizontal and easily readable; distinct teal Chinese lettering on yellow. Cute eccentric handcrafted print, no shading, no 3D, no source dogs, bowls, QR code or Japanese commercial text.
 
 ## 05｜童趣粗线
 
-![童趣粗线](assets/references/reference-05.png)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![童趣粗线 原始参考图](assets/references/reference-05.png) | ![童趣粗线 生成示例](assets/generated/style-05-generated.png) |
 
-参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词](prompts/style-05.txt)
+参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词文件](prompts/style-05.txt)
 
 童趣粗线:
 A charming naive colorful cartoon poster on very fine pale peach checkerboard paper. Bold wobbly dark-teal marker contours, organic flat coral, yellow, green, purple, turquoise fills. AJ becomes a lovable original squat human doodle with short bob, huge outlined round glasses and big simple headphones; varied playful walking/carrying/pointing/diary poses. Six AJ mini scenes interleaved with oversized loose scarlet handwritten graphic numerals 01 02 03 04 05 06 creating an airy 2-column three-row rhythm without rigid panels. Small factual captions paired with scenes. Hand-printed poster craftsmanship, funny understated expressions; do not reproduce recognizable source animal characters, voting slogans, political/election content, signatures or dates other than supplied diary date.
 
 ## 06｜黑黄实验排版
 
-![黑黄实验排版](assets/references/reference-06.png)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![黑黄实验排版 原始参考图](assets/references/reference-06.png) | ![黑黄实验排版 生成示例](assets/generated/style-06-generated.png) |
 
-参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词](prompts/style-06.txt)
+参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词文件](prompts/style-06.txt)
 
 黑黄实验排版:
 An avant-garde hand-drawn indie concert-poster typographic diary in BLACK, WHITE, gritty GRAY, and ACID YELLOW only. Oversized confident black Chinese typography diagonally staggered through whitespace, split main headline into readable AJ / 的 / 一天 with huge visual rhythm. Six friendly abstract gray amorphous ink islands carrying minimal original AJ identities (round glasses, headphones, short black fringe as suggestive line marks); irregular yellow outlined connected speech-label shapes emerge organically from each island and contain exact factual captions. Times serve as strong wayfinding. Grainy charcoal fills, organic line-drawn face details, black perimeter outlines. The six moments integrate into one bold continuous composition, not a card grid. Text must remain fully legible, no copied French words or artist names. Slightly strange and sophisticated, still warm.
 
 ## 07｜波普立体书
 
-![波普立体书](assets/references/reference-07.png)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![波普立体书 原始参考图](assets/references/reference-07.png) | ![波普立体书 生成示例](assets/generated/style-07-generated.png) |
 
-参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词](prompts/style-07.txt)
+参考图来自 `daily-comic-report` skill 的既有风格资产 · [提示词文件](prompts/style-07.txt)
 
 波普立体书:
 An extremely clean contemporary editorial vector poster / pop-up diary illustration. White background and ample whitespace, huge black Swiss-like sans title AJ 的一天 at top, tiny red underlined diary subtitle. An OPEN BOOK at bottom with pink pages, gray spine, red bottom edge, a small original AJ with glasses/headphones sitting or peeking at its center. Six bright floating geometric flat cards tethered by very fine black lines to points on the book: circle, square, long rectangle, starburst etc. Bubblegum pink, cyan blue, grass green, lemon yellow and red with black hairline outlines. Each card has one elegant minimal object / AJ avatar vignette representing one of the six moments and one supplied caption. 33 is the only oversized metric badge and must mean clips; do not introduce source prices. Flat vector logic, sparse retro-pop sparkle accents, no 3D shading. No source brands, signatures, food/consumer items unrelated to the diary.
 
 ## 08｜软体字角色海报
 
-![软体字角色海报](assets/references/reference-08.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![软体字角色海报 原始参考图](assets/references/reference-08.jpg) | ![软体字角色海报 生成示例](assets/generated/style-08-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/685462005830541762/) · [提示词](prompts/style-08.txt)
+[参考来源](https://uk.pinterest.com/pin/685462005830541762/) · [提示词文件](prompts/style-08.txt)
 
 风格 08｜软体字角色海报
 
@@ -77,9 +93,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 09｜城市荧光剪影
 
-![城市荧光剪影](assets/references/reference-09.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![城市荧光剪影 原始参考图](assets/references/reference-09.jpg) | ![城市荧光剪影 生成示例](assets/generated/style-09-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/511228995224768690/) · [提示词](prompts/style-09.txt)
+[参考来源](https://uk.pinterest.com/pin/511228995224768690/) · [提示词文件](prompts/style-09.txt)
 
 风格 09｜城市荧光剪影
 
@@ -87,9 +105,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 10｜透明证件卡档案
 
-![透明证件卡档案](assets/references/reference-10.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![透明证件卡档案 原始参考图](assets/references/reference-10.jpg) | ![透明证件卡档案 生成示例](assets/generated/style-10-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/1030620696038340928/) · [提示词](prompts/style-10.txt)
+[参考来源](https://uk.pinterest.com/pin/1030620696038340928/) · [提示词文件](prompts/style-10.txt)
 
 风格 10｜透明证件卡档案
 
@@ -97,9 +117,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 11｜青春物件环形拼贴
 
-![青春物件环形拼贴](assets/references/reference-11.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![青春物件环形拼贴 原始参考图](assets/references/reference-11.jpg) | ![青春物件环形拼贴 生成示例](assets/generated/style-11-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/506866133086404482/) · [提示词](prompts/style-11.txt)
+[参考来源](https://uk.pinterest.com/pin/506866133086404482/) · [提示词文件](prompts/style-11.txt)
 
 风格 11｜青春物件环形拼贴
 
@@ -107,9 +129,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 12｜复古照片荧光涂鸦
 
-![复古照片荧光涂鸦](assets/references/reference-12.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![复古照片荧光涂鸦 原始参考图](assets/references/reference-12.jpg) | ![复古照片荧光涂鸦 生成示例](assets/generated/style-12-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/481181541418976117/) · [提示词](prompts/style-12.txt)
+[参考来源](https://uk.pinterest.com/pin/481181541418976117/) · [提示词文件](prompts/style-12.txt)
 
 风格 12｜复古照片荧光涂鸦
 
@@ -117,9 +141,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 13｜橙色生活分镜
 
-![橙色生活分镜](assets/references/reference-13.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![橙色生活分镜 原始参考图](assets/references/reference-13.jpg) | ![橙色生活分镜 生成示例](assets/generated/style-13-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/707487422750996876/) · [提示词](prompts/style-13.txt)
+[参考来源](https://uk.pinterest.com/pin/707487422750996876/) · [提示词文件](prompts/style-13.txt)
 
 风格 13｜橙色生活分镜
 
@@ -127,9 +153,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 14｜粉色实物杂货目录
 
-![粉色实物杂货目录](assets/references/reference-14.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![粉色实物杂货目录 原始参考图](assets/references/reference-14.jpg) | ![粉色实物杂货目录 生成示例](assets/generated/style-14-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/817121926206438914/) · [提示词](prompts/style-14.txt)
+[参考来源](https://uk.pinterest.com/pin/817121926206438914/) · [提示词文件](prompts/style-14.txt)
 
 风格 14｜粉色实物杂货目录
 
@@ -137,9 +165,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 15｜金属磁贴记忆拼贴
 
-![金属磁贴记忆拼贴](assets/references/reference-15.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![金属磁贴记忆拼贴 原始参考图](assets/references/reference-15.jpg) | ![金属磁贴记忆拼贴 生成示例](assets/generated/style-15-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/889460995184707406/) · [提示词](prompts/style-15.txt)
+[参考来源](https://uk.pinterest.com/pin/889460995184707406/) · [提示词文件](prompts/style-15.txt)
 
 风格 15｜金属磁贴记忆拼贴
 
@@ -147,9 +177,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 16｜博物馆撕纸胶带清单
 
-![博物馆撕纸胶带清单](assets/references/reference-16.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![博物馆撕纸胶带清单 原始参考图](assets/references/reference-16.jpg) | ![博物馆撕纸胶带清单 生成示例](assets/generated/style-16-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/433964114111810174/) · [提示词](prompts/style-16.txt)
+[参考来源](https://uk.pinterest.com/pin/433964114111810174/) · [提示词文件](prompts/style-16.txt)
 
 风格 16｜博物馆撕纸胶带清单
 
@@ -157,9 +189,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 17｜复古桌面物件拼贴
 
-![复古桌面物件拼贴](assets/references/reference-17.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![复古桌面物件拼贴 原始参考图](assets/references/reference-17.jpg) | ![复古桌面物件拼贴 生成示例](assets/generated/style-17-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/708965166383728381/) · [提示词](prompts/style-17.txt)
+[参考来源](https://uk.pinterest.com/pin/708965166383728381/) · [提示词文件](prompts/style-17.txt)
 
 风格 17｜复古桌面物件拼贴
 
@@ -167,9 +201,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 18｜像素柔焦选框研究板
 
-![像素柔焦选框研究板](assets/references/reference-18.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![像素柔焦选框研究板 原始参考图](assets/references/reference-18.jpg) | ![像素柔焦选框研究板 生成示例](assets/generated/style-18-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/752241944042252263/) · [提示词](prompts/style-18.txt)
+[参考来源](https://uk.pinterest.com/pin/752241944042252263/) · [提示词文件](prompts/style-18.txt)
 
 风格 18｜像素柔焦选框研究板
 
@@ -177,9 +213,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 19｜黑色软体角色绘本提案
 
-![黑色软体角色绘本提案](assets/references/reference-19.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![黑色软体角色绘本提案 原始参考图](assets/references/reference-19.jpg) | ![黑色软体角色绘本提案 生成示例](assets/generated/style-19-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/368169338311731896/) · [提示词](prompts/style-19.txt)
+[参考来源](https://uk.pinterest.com/pin/368169338311731896/) · [提示词文件](prompts/style-19.txt)
 
 风格 19｜黑色软体角色绘本提案
 
@@ -187,9 +225,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 20｜随手画品牌物件板
 
-![随手画品牌物件板](assets/references/reference-20.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![随手画品牌物件板 原始参考图](assets/references/reference-20.jpg) | ![随手画品牌物件板 生成示例](assets/generated/style-20-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/1144969905284367178/) · [提示词](prompts/style-20.txt)
+[参考来源](https://uk.pinterest.com/pin/1144969905284367178/) · [提示词文件](prompts/style-20.txt)
 
 风格 20｜随手画品牌物件板
 
@@ -197,9 +237,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 21｜建筑色块叠印书封
 
-![建筑色块叠印书封](assets/references/reference-21.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![建筑色块叠印书封 原始参考图](assets/references/reference-21.jpg) | ![建筑色块叠印书封 生成示例](assets/generated/style-21-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/782570872797302131/) · [提示词](prompts/style-21.txt)
+[参考来源](https://uk.pinterest.com/pin/782570872797302131/) · [提示词文件](prompts/style-21.txt)
 
 风格 21｜建筑色块叠印书封
 
@@ -207,9 +249,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 22｜蓝色水彩票券套装
 
-![蓝色水彩票券套装](assets/references/reference-22.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![蓝色水彩票券套装 原始参考图](assets/references/reference-22.jpg) | ![蓝色水彩票券套装 生成示例](assets/generated/style-22-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/656470083228832421/) · [提示词](prompts/style-22.txt)
+[参考来源](https://uk.pinterest.com/pin/656470083228832421/) · [提示词文件](prompts/style-22.txt)
 
 风格 22｜蓝色水彩票券套装
 
@@ -217,9 +261,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 23｜春日童趣九宫格
 
-![春日童趣九宫格](assets/references/reference-23.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![春日童趣九宫格 原始参考图](assets/references/reference-23.jpg) | ![春日童趣九宫格 生成示例](assets/generated/style-23-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/683350943499549487/) · [提示词](prompts/style-23.txt)
+[参考来源](https://uk.pinterest.com/pin/683350943499549487/) · [提示词文件](prompts/style-23.txt)
 
 风格 23｜春日童趣九宫格
 
@@ -227,9 +273,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 24｜黄黑伙伴关系信息图
 
-![黄黑伙伴关系信息图](assets/references/reference-24.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![黄黑伙伴关系信息图 原始参考图](assets/references/reference-24.jpg) | ![黄黑伙伴关系信息图 生成示例](assets/generated/style-24-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/520236194465732493/) · [提示词](prompts/style-24.txt)
+[参考来源](https://uk.pinterest.com/pin/520236194465732493/) · [提示词文件](prompts/style-24.txt)
 
 风格 24｜黄黑伙伴关系信息图
 
@@ -237,9 +285,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 25｜粉彩颗粒动作分镜
 
-![粉彩颗粒动作分镜](assets/references/reference-25.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![粉彩颗粒动作分镜 原始参考图](assets/references/reference-25.jpg) | ![粉彩颗粒动作分镜 生成示例](assets/generated/style-25-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/792422496976379417/) · [提示词](prompts/style-25.txt)
+[参考来源](https://uk.pinterest.com/pin/792422496976379417/) · [提示词文件](prompts/style-25.txt)
 
 风格 25｜粉彩颗粒动作分镜
 
@@ -247,9 +297,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 26｜黑底极简新闻图
 
-![黑底极简新闻图](assets/references/reference-26.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![黑底极简新闻图 原始参考图](assets/references/reference-26.jpg) | ![黑底极简新闻图 生成示例](assets/generated/style-26-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/422916221240386237/) · [提示词](prompts/style-26.txt)
+[参考来源](https://uk.pinterest.com/pin/422916221240386237/) · [提示词文件](prompts/style-26.txt)
 
 风格 26｜黑底极简新闻图
 
@@ -257,9 +309,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 27｜手写涂鸦品牌延展
 
-![手写涂鸦品牌延展](assets/references/reference-27.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![手写涂鸦品牌延展 原始参考图](assets/references/reference-27.jpg) | ![手写涂鸦品牌延展 生成示例](assets/generated/style-27-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/587649451427344343/) · [提示词](prompts/style-27.txt)
+[参考来源](https://uk.pinterest.com/pin/587649451427344343/) · [提示词文件](prompts/style-27.txt)
 
 风格 27｜手写涂鸦品牌延展
 
@@ -267,9 +321,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 28｜黑白猫咪贴纸格
 
-![黑白猫咪贴纸格](assets/references/reference-28.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![黑白猫咪贴纸格 原始参考图](assets/references/reference-28.jpg) | ![黑白猫咪贴纸格 生成示例](assets/generated/style-28-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/979110775255378139/) · [提示词](prompts/style-28.txt)
+[参考来源](https://uk.pinterest.com/pin/979110775255378139/) · [提示词文件](prompts/style-28.txt)
 
 风格 28｜黑白猫咪贴纸格
 
@@ -277,9 +333,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 29｜红框漫画方法卡
 
-![红框漫画方法卡](assets/references/reference-29.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![红框漫画方法卡 原始参考图](assets/references/reference-29.jpg) | ![红框漫画方法卡 生成示例](assets/generated/style-29-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/989032768182411408/) · [提示词](prompts/style-29.txt)
+[参考来源](https://uk.pinterest.com/pin/989032768182411408/) · [提示词文件](prompts/style-29.txt)
 
 风格 29｜红框漫画方法卡
 
@@ -287,9 +345,11 @@ An extremely clean contemporary editorial vector poster / pop-up diary illustrat
 
 ## 30｜人物连线照片墙
 
-![人物连线照片墙](assets/references/reference-30.jpg)
+| 原始参考图 | 按提示词生成 |
+|---|---|
+| ![人物连线照片墙 原始参考图](assets/references/reference-30.jpg) | ![人物连线照片墙 生成示例](assets/generated/style-30-generated.png) |
 
-[参考来源](https://uk.pinterest.com/pin/937382109960563202/) · [提示词](prompts/style-30.txt)
+[参考来源](https://uk.pinterest.com/pin/937382109960563202/) · [提示词文件](prompts/style-30.txt)
 
 风格 30｜人物连线照片墙
 
