@@ -6,7 +6,7 @@
 
 ![统一数字人设定](assets/character/digital-human-reference.png)
 
-根据当前任务轨迹建立的原创数字人：视觉知识资料整理者与 AI 工作流编排者。完整人物锚点见 [`prompts/digital-human-reference.txt`](prompts/digital-human-reference.txt)。后续需要出现人物时，保持黑色短发、圆眼镜、耳机和四种点缀色的识别度，再按具体风格调整媒介和姿态。
+以用户提供的官方参考图为唯一人物锚点：黑色齐刘海短发、圆形透明框眼镜、大型黑色头戴式耳机、黑色 WaytoAGI T 恤和完整彩虹标志。完整人物锚点见 [`prompts/digital-human-reference.txt`](prompts/digital-human-reference.txt)。后续需要出现人物时保持这些识别元素，再按具体风格调整媒介、姿态和场景。
 
 ## 01｜像素梦境
 

@@ -18,7 +18,7 @@ The prompts describe visual language only. A skill can reuse them for comics, po
 
 ![统一数字人设定](assets/character/digital-human-reference.png)
 
-基于当前任务轨迹建立的原创数字人：视觉知识资料整理者与 AI 工作流编排者。完整设定见 [`prompts/digital-human-reference.txt`](prompts/digital-human-reference.txt)。后续生成示例可将这段设定作为人物锚点，再按具体风格改变媒介和姿态。
+以用户提供的官方参考图为唯一人物锚点：黑色齐刘海短发、圆形透明框眼镜、大型黑色头戴式耳机、黑色 WaytoAGI T 恤和完整彩虹标志。完整设定见 [`prompts/digital-human-reference.txt`](prompts/digital-human-reference.txt)。后续生成示例保持这些识别元素，再按具体风格改变媒介、姿态和场景。
 
 ## Styles
 
