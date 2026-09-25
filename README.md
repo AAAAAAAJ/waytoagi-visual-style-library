@@ -14,6 +14,12 @@ The prompts describe visual language only. A skill can reuse them for comics, po
 
 查看全部 30 个条目的配图、来源与提示词：[`GALLERY.md`](GALLERY.md)。
 
+## 统一数字人设定
+
+![统一数字人设定](assets/character/digital-human-reference.png)
+
+基于当前任务轨迹建立的原创数字人：视觉知识资料整理者与 AI 工作流编排者。完整设定见 [`prompts/digital-human-reference.txt`](prompts/digital-human-reference.txt)。后续生成示例可将这段设定作为人物锚点，再按具体风格改变媒介和姿态。
+
 ## Styles
 
 | ID | Name | Best for |
