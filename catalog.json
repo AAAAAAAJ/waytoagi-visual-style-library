@@ -1,6 +1,6 @@
 {
   "name": "WaytoAGI Visual Style Library",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "updatedAt": "2026-09-25",
   "purpose": "A reusable visual-language catalog for image, comic, poster, slide, web, and social-content skills.",
   "selection": "Choose one style by id, read its prompt file, then replace the {variables} with task-specific content. Keep the visual language; do not copy source-specific logos, characters, signatures, QR codes, or unrelated copy.",
@@ -15,7 +15,8 @@
         "pixel",
         "retro web",
         "dreamy"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-01-generated.png"
     },
     {
       "id": "02",
@@ -27,7 +28,8 @@
         "journal",
         "grid",
         "ink hatch"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-02-generated.png"
     },
     {
       "id": "03",
@@ -39,7 +41,8 @@
         "crayon",
         "scrapbook",
         "naive"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-03-generated.png"
     },
     {
       "id": "04",
@@ -51,7 +54,8 @@
         "screenprint",
         "neon",
         "doodle"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-04-generated.png"
     },
     {
       "id": "05",
@@ -63,7 +67,8 @@
         "cartoon",
         "bold line",
         "poster"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-05-generated.png"
     },
     {
       "id": "06",
@@ -75,7 +80,8 @@
         "typography",
         "editorial",
         "acid yellow"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-06-generated.png"
     },
     {
       "id": "07",
@@ -87,7 +93,8 @@
         "pop-up",
         "geometric",
         "editorial"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-07-generated.png"
     },
     {
       "id": "08",
@@ -99,7 +106,8 @@
         "brand poster",
         "soft type",
         "character"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-08-generated.png"
     },
     {
       "id": "09",
@@ -111,7 +119,8 @@
         "photography",
         "urban",
         "fluorescent"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-09-generated.png"
     },
     {
       "id": "10",
@@ -123,7 +132,8 @@
         "identity card",
         "archive",
         "handwriting"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-10-generated.png"
     },
     {
       "id": "11",
@@ -135,7 +145,8 @@
         "object collage",
         "negative space",
         "youth"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-11-generated.png"
     },
     {
       "id": "12",
@@ -147,7 +158,8 @@
         "photo collage",
         "retro",
         "neon doodle"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-12-generated.png"
     },
     {
       "id": "13",
@@ -159,7 +171,8 @@
         "storyboard",
         "lifestyle",
         "interior"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-13-generated.png"
     },
     {
       "id": "14",
@@ -186,7 +199,8 @@
         "文案",
         "物件清单",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-14-generated.png"
     },
     {
       "id": "15",
@@ -212,7 +226,8 @@
         "文案",
         "照片与纪念物",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-15-generated.png"
     },
     {
       "id": "16",
@@ -240,7 +255,8 @@
         "文案",
         "画幅",
         "结尾文案"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-16-generated.png"
     },
     {
       "id": "17",
@@ -269,7 +285,8 @@
         "画幅",
         "短文案",
         "菜单短词"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-17-generated.png"
     },
     {
       "id": "18",
@@ -296,7 +313,8 @@
         "标签清单",
         "物件清单",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-18-generated.png"
     },
     {
       "id": "19",
@@ -324,7 +342,8 @@
         "画幅",
         "角色设定",
         "跨页内容"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-19-generated.png"
     },
     {
       "id": "20",
@@ -347,7 +366,8 @@
         "主题",
         "文案",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-20-generated.png"
     },
     {
       "id": "21",
@@ -374,7 +394,8 @@
         "副标题与署名",
         "建筑或空间清单",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-21-generated.png"
     },
     {
       "id": "22",
@@ -402,7 +423,8 @@
         "活动内容",
         "画幅",
         "票券文案"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-22-generated.png"
     },
     {
       "id": "23",
@@ -424,7 +446,8 @@
       "variables": [
         "主题",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-23-generated.png"
     },
     {
       "id": "24",
@@ -447,7 +470,8 @@
         "主标题",
         "文案",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-24-generated.png"
     },
     {
       "id": "25",
@@ -474,7 +498,8 @@
         "分格文案",
         "动作清单",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-25-generated.png"
     },
     {
       "id": "26",
@@ -497,7 +522,8 @@
         "主标题",
         "文案",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-26-generated.png"
     },
     {
       "id": "27",
@@ -524,7 +550,8 @@
         "场景清单",
         "文案",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-27-generated.png"
     },
     {
       "id": "28",
@@ -546,7 +573,8 @@
       "variables": [
         "文案",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-28-generated.png"
     },
     {
       "id": "29",
@@ -568,7 +596,8 @@
       "variables": [
         "主题",
         "画幅"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-29-generated.png"
     },
     {
       "id": "30",
@@ -596,7 +625,12 @@
         "人物设定",
         "画幅",
         "资料主题"
-      ]
+      ],
+      "generatedImage": "assets/generated/style-30-generated.png"
     }
-  ]
+  ],
+  "characterReference": {
+    "image": "assets/character/digital-human-reference.png",
+    "prompt": "prompts/digital-human-reference.txt"
+  }
 }
