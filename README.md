@@ -1,6 +1,6 @@
 # WaytoAGI Visual Style Library
 
-A reusable visual-language reference library for WaytoAGI skills. It contains the seven styles from `daily-comic-report` plus six new Pinterest-based references, for 13 styles total.
+A reusable visual-language reference library for WaytoAGI skills. It contains the seven styles from `daily-comic-report` plus 23 new Pinterest-based references, for 30 styles total.
 
 ## Use from a skill
 
@@ -38,3 +38,25 @@ python3 select_style.py storyboard
 ```
 
 The command prints the selected style metadata and the full prompt as JSON, so another skill can call it without knowing the directory layout.
+
+## Batch 2: styles 14—30
+
+| ID | Name | Best for |
+|---|---|---|
+| 14 | 粉色杂货九宫格 | catalog, pink |
+| 15 | 暗色人物情绪拼贴 | moodboard, portrait |
+| 16 | 博物馆清单导览 | museum, guide |
+| 17 | 彩色音乐环形海报 | music, poster |
+| 18 | 柔焦物件研究板 | research board, soft focus |
+| 19 | 软体黑色角色品牌手册 | character system, brand manual |
+| 20 | 随手画品牌物件板 | hand-drawn, brand board |
+| 21 | 几何色块书封 | book cover, geometric |
+| 22 | 蓝色手绘包装贴纸 | packaging, blue |
+| 23 | 春日童趣九宫格 | children, spring |
+| 24 | 黄黑伙伴关系信息图 | infographic, yellow black |
+| 25 | 绿色创意过程卡 | process, workshop |
+| 26 | 黑底极简新闻图 | news graphic, black |
+| 27 | 多版本排版实验 | layout study, typography |
+| 28 | 黑白猫咪贴纸格 | stickers, monochrome |
+| 29 | 红框漫画方法卡 | comic, method |
+| 30 | 线索串联照片墙 | photography, self discovery |

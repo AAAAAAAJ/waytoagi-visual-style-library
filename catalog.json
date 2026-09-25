@@ -160,6 +160,210 @@
         "lifestyle",
         "interior"
       ]
+    },
+    {
+      "id": "14",
+      "name": "粉色杂货九宫格",
+      "slug": "pink-object-catalog-grid",
+      "reference": "assets/references/reference-14.jpg",
+      "prompt": "prompts/style-14.txt",
+      "tags": [
+        "catalog",
+        "pink",
+        "objects"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "暗色人物情绪拼贴",
+      "slug": "dark-portrait-mood-collage",
+      "reference": "assets/references/reference-15.jpg",
+      "prompt": "prompts/style-15.txt",
+      "tags": [
+        "moodboard",
+        "portrait",
+        "dark collage"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "博物馆清单导览",
+      "slug": "museum-checklist-guide",
+      "reference": "assets/references/reference-16.jpg",
+      "prompt": "prompts/style-16.txt",
+      "tags": [
+        "museum",
+        "guide",
+        "editorial"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "彩色音乐环形海报",
+      "slug": "color-music-orbit-poster",
+      "reference": "assets/references/reference-17.jpg",
+      "prompt": "prompts/style-17.txt",
+      "tags": [
+        "music",
+        "poster",
+        "orbit"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "柔焦物件研究板",
+      "slug": "soft-focus-object-study",
+      "reference": "assets/references/reference-18.jpg",
+      "prompt": "prompts/style-18.txt",
+      "tags": [
+        "research board",
+        "soft focus",
+        "archive"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "软体黑色角色品牌手册",
+      "slug": "soft-black-character-manual",
+      "reference": "assets/references/reference-19.jpg",
+      "prompt": "prompts/style-19.txt",
+      "tags": [
+        "character system",
+        "brand manual",
+        "identity"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "随手画品牌物件板",
+      "slug": "loose-drawn-brand-board",
+      "reference": "assets/references/reference-20.jpg",
+      "prompt": "prompts/style-20.txt",
+      "tags": [
+        "hand-drawn",
+        "brand board",
+        "objects"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "几何色块书封",
+      "slug": "geometric-color-block-cover",
+      "reference": "assets/references/reference-21.jpg",
+      "prompt": "prompts/style-21.txt",
+      "tags": [
+        "book cover",
+        "geometric",
+        "color blocks"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "蓝色手绘包装贴纸",
+      "slug": "blue-hand-drawn-packaging",
+      "reference": "assets/references/reference-22.jpg",
+      "prompt": "prompts/style-22.txt",
+      "tags": [
+        "packaging",
+        "blue",
+        "hand-drawn"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "春日童趣九宫格",
+      "slug": "spring-playful-grid",
+      "reference": "assets/references/reference-23.jpg",
+      "prompt": "prompts/style-23.txt",
+      "tags": [
+        "children",
+        "spring",
+        "grid"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "黄黑伙伴关系信息图",
+      "slug": "yellow-black-together-infographic",
+      "reference": "assets/references/reference-24.jpg",
+      "prompt": "prompts/style-24.txt",
+      "tags": [
+        "infographic",
+        "yellow black",
+        "mascot"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "绿色创意过程卡",
+      "slug": "green-creative-process-card",
+      "reference": "assets/references/reference-25.jpg",
+      "prompt": "prompts/style-25.txt",
+      "tags": [
+        "process",
+        "workshop",
+        "green"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "黑底极简新闻图",
+      "slug": "black-minimal-news-graphic",
+      "reference": "assets/references/reference-26.jpg",
+      "prompt": "prompts/style-26.txt",
+      "tags": [
+        "news graphic",
+        "black",
+        "editorial"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "多版本排版实验",
+      "slug": "multi-layout-design-study",
+      "reference": "assets/references/reference-27.jpg",
+      "prompt": "prompts/style-27.txt",
+      "tags": [
+        "layout study",
+        "typography",
+        "design process"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "黑白猫咪贴纸格",
+      "slug": "monochrome-cat-sticker-grid",
+      "reference": "assets/references/reference-28.jpg",
+      "prompt": "prompts/style-28.txt",
+      "tags": [
+        "stickers",
+        "monochrome",
+        "cats"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "红框漫画方法卡",
+      "slug": "red-frame-comic-method-card",
+      "reference": "assets/references/reference-29.jpg",
+      "prompt": "prompts/style-29.txt",
+      "tags": [
+        "comic",
+        "method",
+        "red frame"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "线索串联照片墙",
+      "slug": "connected-photo-wall",
+      "reference": "assets/references/reference-30.jpg",
+      "prompt": "prompts/style-30.txt",
+      "tags": [
+        "photography",
+        "self discovery",
+        "connections"
+      ]
     }
   ]
 }
