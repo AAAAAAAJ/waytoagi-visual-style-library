@@ -1,0 +1,165 @@
+{
+  "name": "WaytoAGI Visual Style Library",
+  "version": "0.2.0",
+  "updatedAt": "2026-09-25",
+  "purpose": "A reusable visual-language catalog for image, comic, poster, slide, web, and social-content skills.",
+  "selection": "Choose one style by id, read its prompt file, then replace the {variables} with task-specific content. Keep the visual language; do not copy source-specific logos, characters, signatures, QR codes, or unrelated copy.",
+  "styles": [
+    {
+      "id": "01",
+      "name": "像素梦境",
+      "slug": "pixel-dreamscape",
+      "reference": "assets/references/reference-01.png",
+      "prompt": "prompts/style-01.txt",
+      "tags": [
+        "pixel",
+        "retro web",
+        "dreamy"
+      ]
+    },
+    {
+      "id": "02",
+      "name": "黑白日历拼格",
+      "slug": "monochrome-calendar-grid",
+      "reference": "assets/references/reference-02.png",
+      "prompt": "prompts/style-02.txt",
+      "tags": [
+        "journal",
+        "grid",
+        "ink hatch"
+      ]
+    },
+    {
+      "id": "03",
+      "name": "蜡笔拼贴",
+      "slug": "crayon-collage",
+      "reference": "assets/references/reference-03.png",
+      "prompt": "prompts/style-03.txt",
+      "tags": [
+        "crayon",
+        "scrapbook",
+        "naive"
+      ]
+    },
+    {
+      "id": "04",
+      "name": "荧光双色涂鸦",
+      "slug": "fluorescent-duotone-doodle",
+      "reference": "assets/references/reference-04.png",
+      "prompt": "prompts/style-04.txt",
+      "tags": [
+        "screenprint",
+        "neon",
+        "doodle"
+      ]
+    },
+    {
+      "id": "05",
+      "name": "童趣粗线",
+      "slug": "playful-bold-line",
+      "reference": "assets/references/reference-05.png",
+      "prompt": "prompts/style-05.txt",
+      "tags": [
+        "cartoon",
+        "bold line",
+        "poster"
+      ]
+    },
+    {
+      "id": "06",
+      "name": "黑黄实验排版",
+      "slug": "black-yellow-experimental-type",
+      "reference": "assets/references/reference-06.png",
+      "prompt": "prompts/style-06.txt",
+      "tags": [
+        "typography",
+        "editorial",
+        "acid yellow"
+      ]
+    },
+    {
+      "id": "07",
+      "name": "波普立体书",
+      "slug": "pop-up-book-poster",
+      "reference": "assets/references/reference-07.png",
+      "prompt": "prompts/style-07.txt",
+      "tags": [
+        "pop-up",
+        "geometric",
+        "editorial"
+      ]
+    },
+    {
+      "id": "08",
+      "name": "软体字角色海报",
+      "slug": "soft-type-character-poster",
+      "reference": "assets/references/reference-08.jpg",
+      "prompt": "prompts/style-08.txt",
+      "tags": [
+        "brand poster",
+        "soft type",
+        "character"
+      ]
+    },
+    {
+      "id": "09",
+      "name": "城市荧光剪影",
+      "slug": "urban-fluorescent-silhouette",
+      "reference": "assets/references/reference-09.jpg",
+      "prompt": "prompts/style-09.txt",
+      "tags": [
+        "photography",
+        "urban",
+        "fluorescent"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "透明证件卡档案",
+      "slug": "clear-badge-archive",
+      "reference": "assets/references/reference-10.jpg",
+      "prompt": "prompts/style-10.txt",
+      "tags": [
+        "identity card",
+        "archive",
+        "handwriting"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "青春物件环形拼贴",
+      "slug": "youth-object-orbit-collage",
+      "reference": "assets/references/reference-11.jpg",
+      "prompt": "prompts/style-11.txt",
+      "tags": [
+        "object collage",
+        "negative space",
+        "youth"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "复古照片荧光涂鸦",
+      "slug": "retro-photo-neon-doodle",
+      "reference": "assets/references/reference-12.jpg",
+      "prompt": "prompts/style-12.txt",
+      "tags": [
+        "photo collage",
+        "retro",
+        "neon doodle"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "橙色生活分镜",
+      "slug": "orange-lifestyle-storyboard",
+      "reference": "assets/references/reference-13.jpg",
+      "prompt": "prompts/style-13.txt",
+      "tags": [
+        "storyboard",
+        "lifestyle",
+        "interior"
+      ]
+    }
+  ]
+}
