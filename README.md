@@ -12,6 +12,8 @@ A reusable visual-language reference library for WaytoAGI skills. It contains th
 
 The prompts describe visual language only. A skill can reuse them for comics, posters, slides, web visuals, and social content.
 
+查看全部 30 个条目的配图、来源与提示词：[`GALLERY.md`](GALLERY.md)。
+
 ## Styles
 
 | ID | Name | Best for |
