@@ -1,6 +1,6 @@
 {
   "name": "WaytoAGI Visual Style Library",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "updatedAt": "2026-09-25",
   "purpose": "A reusable visual-language catalog for image, comic, poster, slide, web, and social-content skills.",
   "selection": "Choose one style by id, read its prompt file, then replace the {variables} with task-specific content. Keep the visual language; do not copy source-specific logos, characters, signatures, QR codes, or unrelated copy.",
@@ -163,7 +163,7 @@
     },
     {
       "id": "14",
-      "name": "粉色杂货九宫格",
+      "name": "粉色实物杂货目录",
       "slug": "pink-object-catalog-grid",
       "reference": "assets/references/reference-14.jpg",
       "prompt": "prompts/style-14.txt",
@@ -171,11 +171,26 @@
         "catalog",
         "pink",
         "objects"
+      ],
+      "visual_features": "实物抠图、粉底橙色细网格、屋顶轮廓、跨格吊灯",
+      "use_case": "杂货目录、物件收藏、产品海报",
+      "source_url": "https://uk.pinterest.com/pin/817121926206438914/",
+      "reference_title": "雑貨屋 | パンフレット デザイン, 参考, 排版",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "文案",
+        "物件清单",
+        "画幅"
       ]
     },
     {
       "id": "15",
-      "name": "暗色人物情绪拼贴",
+      "name": "金属磁贴记忆拼贴",
       "slug": "dark-portrait-mood-collage",
       "reference": "assets/references/reference-15.jpg",
       "prompt": "prompts/style-15.txt",
@@ -183,11 +198,25 @@
         "moodboard",
         "portrait",
         "dark collage"
+      ],
+      "visual_features": "拉丝不锈钢、银色磁钉、照片条、票据与私人物件",
+      "use_case": "人物情绪板、旅行记忆、个人档案",
+      "source_url": "https://uk.pinterest.com/pin/889460995184707406/",
+      "reference_title": "Aestetik | Ide, Pengeditan foto, Barang",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主题",
+        "文案",
+        "照片与纪念物",
+        "画幅"
       ]
     },
     {
       "id": "16",
-      "name": "博物馆清单导览",
+      "name": "博物馆撕纸胶带清单",
       "slug": "museum-checklist-guide",
       "reference": "assets/references/reference-16.jpg",
       "prompt": "prompts/style-16.txt",
@@ -195,11 +224,27 @@
         "museum",
         "guide",
         "editorial"
+      ],
+      "visual_features": "纸上叠纸、撕边横条、摄影展品、大号衬线编号",
+      "use_case": "展览导览、收藏清单、知识卡",
+      "source_url": "https://uk.pinterest.com/pin/433964114111810174/",
+      "reference_title": "Colorful Washi Tape Rolls | 보드 디자인, 이벤트배너, 아트북",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "展品清单",
+        "文案",
+        "画幅",
+        "结尾文案"
       ]
     },
     {
       "id": "17",
-      "name": "彩色音乐环形海报",
+      "name": "复古桌面物件拼贴",
       "slug": "color-music-orbit-poster",
       "reference": "assets/references/reference-17.jpg",
       "prompt": "prompts/style-17.txt",
@@ -207,11 +252,28 @@
         "music",
         "poster",
         "orbit"
+      ],
+      "visual_features": "电脑菜单栏、巨型网点物件、文件夹与缩略图、彩色像素字",
+      "use_case": "数字日记、创作者主页、音乐与活动海报",
+      "source_url": "https://uk.pinterest.com/pin/708965166383728381/",
+      "reference_title": "KiiiKiii (poster) | Tomato poster design ideas, Poster design about tomato, Gfx design",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "标签清单",
+        "核心物件",
+        "画幅",
+        "短文案",
+        "菜单短词"
       ]
     },
     {
       "id": "18",
-      "name": "柔焦物件研究板",
+      "name": "像素柔焦选框研究板",
       "slug": "soft-focus-object-study",
       "reference": "assets/references/reference-18.jpg",
       "prompt": "prompts/style-18.txt",
@@ -219,11 +281,26 @@
         "research board",
         "soft focus",
         "archive"
+      ],
+      "visual_features": "局部像素化与模糊并置、蓝色编辑选框、错位编号",
+      "use_case": "视觉研究、物件档案、实验海报",
+      "source_url": "https://uk.pinterest.com/pin/752241944042252263/",
+      "reference_title": "Visual Collection | Moodboard, Fams",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "标签清单",
+        "物件清单",
+        "画幅"
       ]
     },
     {
       "id": "19",
-      "name": "软体黑色角色品牌手册",
+      "name": "黑色软体角色绘本提案",
       "slug": "soft-black-character-manual",
       "reference": "assets/references/reference-19.jpg",
       "prompt": "prompts/style-19.txt",
@@ -231,6 +308,22 @@
         "character system",
         "brand manual",
         "identity"
+      ],
+      "visual_features": "黄底书封样机、大小对比角色、配色表、多色跨页",
+      "use_case": "儿童绘本、概念教学、IP提案",
+      "source_url": "https://uk.pinterest.com/pin/368169338311731896/",
+      "reference_title": "Concept Art | Smudge smudge spot book, Smudge smudge speckle spot",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "教学主题",
+        "文案",
+        "画幅",
+        "角色设定",
+        "跨页内容"
       ]
     },
     {
@@ -243,11 +336,22 @@
         "hand-drawn",
         "brand board",
         "objects"
+      ],
+      "source_url": "https://uk.pinterest.com/pin/1144969905284367178/",
+      "reference_title": "Marken | Umschlagdesign",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主题",
+        "文案",
+        "画幅"
       ]
     },
     {
       "id": "21",
-      "name": "几何色块书封",
+      "name": "建筑色块叠印书封",
       "slug": "geometric-color-block-cover",
       "reference": "assets/references/reference-21.jpg",
       "prompt": "prompts/style-21.txt",
@@ -255,11 +359,26 @@
         "book cover",
         "geometric",
         "color blocks"
+      ],
+      "visual_features": "长短矩形、建筑剪影、半透明叠印、粉彩纸纹",
+      "use_case": "建筑书封、城市主题、展览封面",
+      "source_url": "https://uk.pinterest.com/pin/782570872797302131/",
+      "reference_title": "여덟 개의 우주 | 최준석 | 아트북스 - 예스24 | 책표지",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "副标题与署名",
+        "建筑或空间清单",
+        "画幅"
       ]
     },
     {
       "id": "22",
-      "name": "蓝色手绘包装贴纸",
+      "name": "蓝色水彩票券套装",
       "slug": "blue-hand-drawn-packaging",
       "reference": "assets/references/reference-22.jpg",
       "prompt": "prompts/style-22.txt",
@@ -267,6 +386,22 @@
         "packaging",
         "blue",
         "hand-drawn"
+      ],
+      "visual_features": "灰水彩角色、钴蓝纸纹、异形票券、重复腕带",
+      "use_case": "活动票券、联名物料、品牌包装",
+      "source_url": "https://uk.pinterest.com/pin/656470083228832421/",
+      "reference_title": "IP联名活动设计｜匹克球｜IP设计｜品牌设计 - 小红书 | Chinese packaging design ideas, Chinese package",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "原创角色",
+        "活动内容",
+        "画幅",
+        "票券文案"
       ]
     },
     {
@@ -279,6 +414,16 @@
         "children",
         "spring",
         "grid"
+      ],
+      "source_url": "https://uk.pinterest.com/pin/683350943499549487/",
+      "reference_title": "イラスト 春 | 儿童 插画, 插画人物, 小插画",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主题",
+        "画幅"
       ]
     },
     {
@@ -291,11 +436,22 @@
         "infographic",
         "yellow black",
         "mascot"
+      ],
+      "source_url": "https://uk.pinterest.com/pin/520236194465732493/",
+      "reference_title": "躺大平和好朋友们 - 7leaf Han | Mascot pattern, Branding character design, Infographic design with icons",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "文案",
+        "画幅"
       ]
     },
     {
       "id": "25",
-      "name": "绿色创意过程卡",
+      "name": "粉彩颗粒动作分镜",
       "slug": "green-creative-process-card",
       "reference": "assets/references/reference-25.jpg",
       "prompt": "prompts/style-25.txt",
@@ -303,6 +459,21 @@
         "process",
         "workshop",
         "green"
+      ],
+      "visual_features": "大留白标题区、彩色方格、动作局部特写、白色短句条",
+      "use_case": "创作理念、读书卡、过程说明",
+      "source_url": "https://uk.pinterest.com/pin/792422496976379417/",
+      "reference_title": "무드 보드 | 책, 표지, 전시",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "分格文案",
+        "动作清单",
+        "画幅"
       ]
     },
     {
@@ -315,11 +486,22 @@
         "news graphic",
         "black",
         "editorial"
+      ],
+      "source_url": "https://uk.pinterest.com/pin/422916221240386237/",
+      "reference_title": "Minimalist news graphic design | Minimalist news illustration, Review section, Visual graphics",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "文案",
+        "画幅"
       ]
     },
     {
       "id": "27",
-      "name": "多版本排版实验",
+      "name": "手写涂鸦品牌延展",
       "slug": "multi-layout-design-study",
       "reference": "assets/references/reference-27.jpg",
       "prompt": "prompts/style-27.txt",
@@ -327,6 +509,21 @@
         "layout study",
         "typography",
         "design process"
+      ],
+      "visual_features": "粗糙手写大字、锯齿票边、青黄橙色块、黑白街拍",
+      "use_case": "品牌延展、活动物料、生活方式海报",
+      "source_url": "https://uk.pinterest.com/pin/587649451427344343/",
+      "reference_title": "レイアウトデザイン | 排版, 公司, 一些",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "场景清单",
+        "文案",
+        "画幅"
       ]
     },
     {
@@ -339,6 +536,16 @@
         "stickers",
         "monochrome",
         "cats"
+      ],
+      "source_url": "https://uk.pinterest.com/pin/979110775255378139/",
+      "reference_title": "Чб стикеры | Журнальный коллаж, Печатка, Распечатки",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "文案",
+        "画幅"
       ]
     },
     {
@@ -351,11 +558,21 @@
         "comic",
         "method",
         "red frame"
+      ],
+      "source_url": "https://uk.pinterest.com/pin/989032768182411408/",
+      "reference_title": "How to finish comic | How to write comic dialogue, How to finnish comic, Training day memes",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主题",
+        "画幅"
       ]
     },
     {
       "id": "30",
-      "name": "线索串联照片墙",
+      "name": "人物连线照片墙",
       "slug": "connected-photo-wall",
       "reference": "assets/references/reference-30.jpg",
       "prompt": "prompts/style-30.txt",
@@ -363,6 +580,22 @@
         "photography",
         "self discovery",
         "connections"
+      ],
+      "visual_features": "真实装置摄影、密集杂志墙、细线连接人物、自然光",
+      "use_case": "信息关系、自我观察、概念摄影",
+      "source_url": "https://uk.pinterest.com/pin/937382109960563202/",
+      "reference_title": "Photography about being present | Photographing the self, Photo series about self discovery, Dump scrolling",
+      "validation": {
+        "reference_reviewed": true,
+        "generation_tested": false
+      },
+      "variables": [
+        "主标题",
+        "主题",
+        "人物动作",
+        "人物设定",
+        "画幅",
+        "资料主题"
       ]
     }
   ]

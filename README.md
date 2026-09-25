@@ -43,20 +43,20 @@ The command prints the selected style metadata and the full prompt as JSON, so a
 
 | ID | Name | Best for |
 |---|---|---|
-| 14 | 粉色杂货九宫格 | catalog, pink |
-| 15 | 暗色人物情绪拼贴 | moodboard, portrait |
-| 16 | 博物馆清单导览 | museum, guide |
-| 17 | 彩色音乐环形海报 | music, poster |
-| 18 | 柔焦物件研究板 | research board, soft focus |
-| 19 | 软体黑色角色品牌手册 | character system, brand manual |
+| 14 | 粉色实物杂货目录 | 杂货目录、物件收藏、产品海报 |
+| 15 | 金属磁贴记忆拼贴 | 人物情绪板、旅行记忆、个人档案 |
+| 16 | 博物馆撕纸胶带清单 | 展览导览、收藏清单、知识卡 |
+| 17 | 复古桌面物件拼贴 | 数字日记、创作者主页、音乐与活动海报 |
+| 18 | 像素柔焦选框研究板 | 视觉研究、物件档案、实验海报 |
+| 19 | 黑色软体角色绘本提案 | 儿童绘本、概念教学、IP提案 |
 | 20 | 随手画品牌物件板 | hand-drawn, brand board |
-| 21 | 几何色块书封 | book cover, geometric |
-| 22 | 蓝色手绘包装贴纸 | packaging, blue |
+| 21 | 建筑色块叠印书封 | 建筑书封、城市主题、展览封面 |
+| 22 | 蓝色水彩票券套装 | 活动票券、联名物料、品牌包装 |
 | 23 | 春日童趣九宫格 | children, spring |
 | 24 | 黄黑伙伴关系信息图 | infographic, yellow black |
-| 25 | 绿色创意过程卡 | process, workshop |
+| 25 | 粉彩颗粒动作分镜 | 创作理念、读书卡、过程说明 |
 | 26 | 黑底极简新闻图 | news graphic, black |
-| 27 | 多版本排版实验 | layout study, typography |
+| 27 | 手写涂鸦品牌延展 | 品牌延展、活动物料、生活方式海报 |
 | 28 | 黑白猫咪贴纸格 | stickers, monochrome |
 | 29 | 红框漫画方法卡 | comic, method |
-| 30 | 线索串联照片墙 | photography, self discovery |
+| 30 | 人物连线照片墙 | 信息关系、自我观察、概念摄影 |
